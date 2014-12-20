@@ -1,7 +1,7 @@
 {
   "name": "atom-snappy",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": false,
   "description": "A port of the Snappy theme by Dayle Rees.",
   "repository": "https://github.com/danvirsen/atom-snappy",
